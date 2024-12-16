@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Organic Almonds",
+        "price": 12.50,
+        "description": "High-quality organic almonds, sourced directly from sustainable farms.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/ram1.jpg"
+            },
+            {
+                "image": "/images/products/ram2.jpg"
+            }
+        ],
+        "category": "Nuts & Seeds",
+        "seller": "Farmer John's Farm",
+        "stock": 50,
+        "numOfReviews": 25,
+        "reviews": []
+    },
+    {
+        "name": "Fresh Avocados",
+        "price": 3.00,
+        "description": "Creamy and delicious avocados, perfect for salads and sandwiches.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/ram3.jpg"
+            }
+        ],
+        "category": "Fruits",
+        "seller": "Green Valley Farm",
+        "stock": 100,
+        "numOfReviews": 40,
+        "reviews": []
+    },
+    {
+        "name": "Farm-Fresh Eggs",
+        "price": 5.00,
+        "description": "Organic, free-range eggs with a rich flavor, straight from the farm.",
+        "ratings": 4.9,
+        "images": [
+            {
+                "image": "/images/products/o.jpeg"
+            }
+        ],
+        "category": "Dairy & Eggs",
+        "seller": "Sunrise Farms",
+        "stock": 80,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "Organic Honey",
+        "price": 10.00,
+        "description": "Pure, raw honey harvested from organic bee farms.",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/h.jpeg"
+          }
+        ],
+        "category": "Sweeteners",
+        "seller": "Buzzing Bee Farm",
+        "stock": 60,
+        "numOfReviews": 20,
+        "reviews": []
+      },
+      
+    {
+        "name": "Organic Carrots",
+        "price": 2.50,
+        "description": "Crunchy and nutritious carrots grown without any pesticides.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "image": "/images/products/v.jpeg"
+            }
+        ],
+        "category": "Vegetables",
+        "seller": "Healthy Harvest Farm",
+        "stock": 100,
+        "numOfReviews": 45,
+        "reviews": []
+    },
+    {
+        "name": "Fresh Milk",
+        "price": 1.20,
+        "description": "Freshly milked and pasteurized, ready to nourish your family.",
+        "ratings": 4.8,
+        "images": [
+            {
+                "image": "/images/products/o.jpeg"
+            }
+        ],
+        "category": "Dairy & Eggs",
+        "seller": "Sunny Meadows Dairy",
+        "stock": 120,
+        "numOfReviews": 55,
+        "reviews": []
+    }
+]
